@@ -11,7 +11,7 @@ I will create a shell script that reads a csv file that contains the first name 
 
 1. First,create an AWS instance with a public key pair (ndevops.pem)
 
-2. create a file, onboard.sh and paste the script from the file in the repository
+2. create a file, onboard.sh and paste the script from the file(Onboard.sh) in the repository
 
 3. copy the onboard.sh file into the AWS instance using command:
 ```
