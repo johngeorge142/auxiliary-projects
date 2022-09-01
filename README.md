@@ -8,9 +8,6 @@ I will create a shell script that reads a csv file that contains the first name 
 
 # Demo
 
-# auxiliary-projects
-
-
 
 1. First,create an AWS instance with a public key pair (ndevops.pem)
 
