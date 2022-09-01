@@ -14,8 +14,10 @@ I will create a shell script that reads a csv file that contains the first name 
 2. create a file, onboard.sh and paste the script from the file in the repository
 
 3. copy the onboard.sh file into the AWS instance using command:
+```
   scp -i ndevops.pem onboard.sh ubuntu@54.151.8.136:~/;
-  
+```
+
 4. SSH into the aws instance
 
 5. Create the folder called Shell
