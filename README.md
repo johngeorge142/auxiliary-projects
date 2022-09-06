@@ -1,5 +1,5 @@
 
-# Project 0 - Auxiliary Project 
+# Auxiliary Project 
 
 https://drive.google.com/file/d/18k-3yKomLigrU80jhKDV9rBmvUT4WTKM/view?usp=sharing
 
