@@ -1,6 +1,7 @@
 
 # Auxiliary Project 
 
+https://drive.google.com/file/d/1MCmO9ZPT4QqCOJmHHfjEbk8PdgjILj6J/view?usp=sharing
 
 In this project, you need to onboard 20 new Linux users onto a server. 
 I will create a shell script that reads a csv file that contains the first name of the users to be onboarded.
